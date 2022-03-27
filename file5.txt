@@ -1,0 +1,4 @@
+Hi,
+We can create barch from master
+to checkout to branch use below cmd
+git checkout -b barnch_name
