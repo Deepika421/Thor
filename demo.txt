@@ -1,2 +1,4 @@
 Hi,
-wlecome to CI/CD Pipeline
+welcome to CI/CD Pipeline
+It has important Things
+PollSCM Timer Pipeline and webhook
